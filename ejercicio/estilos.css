@@ -1,0 +1,7 @@
+body {
+    background-color: black; /* Establece el color de fondo de toda la página en negro */
+    color: white; /* Establece el color del texto en blanco */
+}
+.centered-header {
+    text-align: center; /* Alinea el texto del encabezado al centro */
+}
